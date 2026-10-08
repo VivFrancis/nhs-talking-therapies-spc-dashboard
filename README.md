@@ -2,7 +2,7 @@
 
 A Power BI performance dashboard analysing NHS Talking Therapies data for Sheffield, using statistical process control (SPC) charts to separate normal monthly variation from meaningful change.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Overview
 
@@ -24,7 +24,7 @@ Performance teams in the NHS increasingly use SPC charts, following NHS England'
 - **6-week access shows an early warning.** Performance consistently exceeds the 75% standard, but May to July 2026 fall below the lower process limit: a statistically significant deterioration that a RAG rating would not show.
 - **Referrals are seasonal.** Demand dips in August and December. High referrals in early 2026 may have contributed to the later dip in 6-week access, although capacity data would be needed to confirm this.
 
-![Insights](images/insights.png)
+![Insights](insights.png)
 
 ## Recommendations
 
